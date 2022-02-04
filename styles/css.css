@@ -29,7 +29,7 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
-    /* I lost marks because I didn't add either this option: */
+    /* I lost marks because I didn't add either this option. I lost marks because the paragraph would go out of alignment in some cases. From the prof: "The buttons are aligning to the bottom of the card but NOT using flexbox property" */
     /* margin-top:auto; */
   }
 
