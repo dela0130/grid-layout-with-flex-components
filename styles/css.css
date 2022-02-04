@@ -29,6 +29,14 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
+    /* I lost marks because I didn't add either this option: */
+    /* margin-top:auto; */
+  }
+
+  .emoji p {
+    /* Or this option: */
+    
+    /* flex-grow: 1; */
   }
   
   .icon {
